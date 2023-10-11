@@ -1,7 +1,7 @@
 # simple-chat-room
 ### 簡介
 網路程式設計的期末專題
-透過winsock建立三人的聊天室能互傳訊息給對方
+透過winsock建立三人的聊天室能互傳訊息給彼此
 ### 操作流程
 依序打開server及三個client
 ![](https://hackmd.io/_uploads/Sy2tJFQWT.png)
